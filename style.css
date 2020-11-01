@@ -738,7 +738,7 @@ animation-delay:8s;
   height:38vh;
   background-size:cover;
   background-position:center;
- ?* border:2px solid green;*/
+ /* border:2px solid green;*/
   box-shadow:0px 4px 12px 0px #ddd;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p{
@@ -754,7 +754,7 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p button{
   width:8vh;
   height:4vh;
-  font-size:1.8vh;
+  font-size:1.6vh;
   display:grid;
   place-items:center;
 }
@@ -793,12 +793,11 @@ animation-delay:8s;
   display:grid;
   place-items:center;
   font-family: sans-serif;
-  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p button{
   width:8vh;
   height:4vh;
-  font-size:1.8vh;
+  font-size:1.6vh;
   display:grid;
   place-items:center;
 }
@@ -813,7 +812,6 @@ animation-delay:8s;
   place-items:center;
  /* border:2px solid black;*/
   background:white;
-  overflow:hidden;
   box-shadow: 0px 4px 18px 0px #ddd;
 }
 .container-1 .sub-container-2 .sidebar-container{
