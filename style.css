@@ -782,7 +782,7 @@ animation-delay:8s;
   height:15vh;
   background-size:cover;
   background-position:center;
- /* border:2px solid green;*/
+ /* border:2px solid green;*/ 
   box-shadow:0px 4px 12px 0px #ddd;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p{
@@ -865,6 +865,7 @@ animation-delay:8s;
 .container-2 .sub-container-21 .sub-container21 .container21-col-1{
   width:60%;
   height:58vh;
+  margin: auto;
   /*border:2px  solid white;*/
 }
 .container-2 .sub-container-21 .sub-container21 .container21-col-2{
@@ -873,6 +874,7 @@ animation-delay:8s;
   /*border:2px  solid white;*/
   display:grid;
   place-items:center;
+  margin: auto;
 }
 .container-2 .sub-container-21 .sub-container21 .container21-col-2 header{
   width:98%;
@@ -910,6 +912,7 @@ animation-delay:8s;
  align-cotent:center;
   justify-content:center;
   place-items:center;
+  margin: auto;
 }
 .container-2 .sub-container-21 .sub-container21 .container21-col-1 .col1-row-1  img{
   width:10vw;
@@ -934,6 +937,7 @@ animation-delay:8s;
   align-cotent:center;
   justify-content:center;
   place-items:center;
+  margin: auto;
 }
 .container-2 .sub-container-21 .sub-container21 .container21-col-1 .col1-row-2  img{
   width:10vw;
