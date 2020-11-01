@@ -702,7 +702,7 @@ animation-delay:8s;
   place-items:center;
   /*border:2px solid black;*/
   margin-top:4vh;
-  background:transparent;
+  background:white;
   overflow-y:hidden;
 }
 .container-1 .sub-container-1{
@@ -711,7 +711,7 @@ animation-delay:8s;
   display:grid;
   place-items:center;
   /*border:2px solid black;*/
-  background:transparent;
+  background:white;
    overflow-y:hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1{
