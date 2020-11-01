@@ -728,6 +728,9 @@ animation-delay:8s;
   height:57vh;
   /*border:2px solid yellow;*/
   overflow: hidden;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 img{
   width:98%;
