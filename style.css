@@ -726,6 +726,10 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1{
   width:98%;
   height:57vh;
+  display: grid;
+  place-items:center;
+  align-content: center;
+  justify-content: center;
   /*border:2px solid yellow;*/
   overflow: hidden;
 }
