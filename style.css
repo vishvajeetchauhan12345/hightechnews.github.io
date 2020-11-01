@@ -703,6 +703,7 @@ animation-delay:8s;
   /*border:2px solid black;*/
   margin-top:4vh;
   background:white;
+  overflow: hidden;
 }
 .container-1 .sub-container-1{
   width:60%;
@@ -711,6 +712,7 @@ animation-delay:8s;
   place-items:center;
   /*border:2px solid black;*/
   background:white;
+  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1{
   display:flex;
@@ -729,6 +731,7 @@ animation-delay:8s;
   align-content:center;
   justify-content:center;
   /*border:2px solid yellow;*/
+  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 img{
   width:98%;
@@ -746,6 +749,7 @@ animation-delay:8s;
   display:grid;
   place-items:center;
   font-family: sans-serif;
+  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p button{
   width:8vh;
@@ -771,6 +775,7 @@ animation-delay:8s;
   display:grid;
   place-items:center;
   /*border:2px solid black;*/
+  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 img{
    width:98%;
@@ -788,6 +793,7 @@ animation-delay:8s;
   display:grid;
   place-items:center;
   font-family: sans-serif;
+  overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p button{
   width:8vh;
@@ -807,7 +813,7 @@ animation-delay:8s;
   place-items:center;
  /* border:2px solid black;*/
   background:white;
-  overflow-y:hidden;
+  overflow:hidden;
   box-shadow: 0px 4px 18px 0px #ddd;
 }
 .container-1 .sub-container-2 .sidebar-container{
