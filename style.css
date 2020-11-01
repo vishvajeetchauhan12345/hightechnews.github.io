@@ -726,10 +726,6 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1{
   width:100%;
   height:57vh;
-  display:grid;
-  place-items:center;
-  align-content:center;
-  justify-content:center;
   /*border:2px solid yellow;*/
   overflow: hidden;
 }
@@ -773,8 +769,6 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1{
   width:100%;
   height:27vh;
-  display:grid;
-  place-items:center;
   /*border:2px solid black;*/
   overflow: hidden;
 }
@@ -791,8 +785,6 @@ animation-delay:8s;
   height:10vh;
   font-size:1.8vh;
   color:black;
-  display:grid;
-  place-items:center;
   font-family: sans-serif;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p button{
