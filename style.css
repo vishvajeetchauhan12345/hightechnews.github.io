@@ -744,7 +744,7 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p{
   width:98%;
   height:17vh;
-  font-size:2.1vh;
+  font-size:1.8vh;
   color:black;
   display:grid;
   place-items:center;
@@ -788,7 +788,7 @@ animation-delay:8s;
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p{
   width:40vw;
   height:10vh;
-  font-size:2.1vh;
+  font-size:1.8vh;
   color:black;
   display:grid;
   place-items:center;
