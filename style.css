@@ -752,8 +752,8 @@ animation-delay:8s;
   overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p button{
-  width:8vw;
-  height:3vh;
+  width:8%;
+  height:2vh;
   font-size:1.6vh;
   display:grid;
   place-items:center;
@@ -797,8 +797,8 @@ animation-delay:8s;
   font-family: sans-serif;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p button{
-  width:8vw;
-  height:3vh;
+  width:8%;
+  height:2vh;
   font-size:1.6vh;
   display:grid;
   place-items:center;
