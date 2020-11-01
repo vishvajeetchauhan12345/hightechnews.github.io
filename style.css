@@ -724,7 +724,7 @@ animation-delay:8s;
   /*border:2px solid blue;*/
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1{
-  width:60vw;
+  width:60%;
   height:57vh;
   display:grid;
   place-items:center;
@@ -734,7 +734,7 @@ animation-delay:8s;
   overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 img{
-  width:60vw;
+  width:60%;
   height:38vh;
   background-size:cover;
   background-position:center;
@@ -763,14 +763,14 @@ animation-delay:8s;
   background:blue;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2{
-  width:40vw;
+  width:40%;
   height:56vh;
   display:grid;
   place-items:center;
   /*border:2px solid #fff;*/
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1{
-  width:40vw;
+  width:40%;
   height:27vh;
   display:grid;
   place-items:center;
@@ -778,7 +778,7 @@ animation-delay:8s;
   overflow: hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 img{
-   width:40vw;
+   width:40%;
   height:15vh;
   background-size:cover;
   background-position:center;
@@ -786,7 +786,7 @@ animation-delay:8s;
   box-shadow:0px 4px 12px 0px #ddd;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p{
-  width:40vw;
+  width:40%;
   height:10vh;
   font-size:1.8vh;
   color:black;
