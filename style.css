@@ -718,19 +718,16 @@ animation-delay:8s;
   display:flex;
   align-content:center;
   justify-content:center;
-  place-align:center;
   width:100%;
-  height:57vh;
+  height:58vh;
   /*border:2px solid blue;*/
    overflow-y:hidden;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1{
   width:60%;
-  height:57vh;
+  height:58vh;
   display:grid;
   place-items:center;
-  align-content:center;
-  justify-content:center;
   /*border:2px solid yellow;*/
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 img{
@@ -738,23 +735,21 @@ animation-delay:8s;
   height:38vh;
   background-size:cover;
   background-position:center;
- ?* border:2px solid green;*/
+ /*border:2px solid green;*/
   box-shadow:0px 4px 12px 0px #ddd;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p{
   width:98%;
-  height:17vh;
+  height:20vh;
   font-size:1.8vh;
   color:black;
   display:grid;
-  place-items:center;
+ place-items:center;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p button{
-  width:8vh;
+  width:12%;
   height:4vh;
   font-size:1.8vh;
-  display:grid;
-  place-items:center;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-1 p button:hover{
   color:white;
@@ -762,14 +757,14 @@ animation-delay:8s;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2{
   width:40%;
-  height:56vh;
+  height:58vh;
   display:grid;
   place-items:center;
   /*border:2px solid #fff;*/
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1{
   width:98%;
-  height:27vh;
+  height:29vh;
   display:grid;
   place-items:center;
   /*border:2px solid black;*/
@@ -784,15 +779,16 @@ animation-delay:8s;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p{
   width:98%;
-  height:10vh;
+  height:14vh;
   font-size:1.8vh;
   color:black;
   display:grid;
   place-items:center;
   font-family:Comic Sans,Comic Sans MS;
+  margin: auto;
 }
 .container-1 .sub-container-1 .sub-card-container-1 .card-col-2 .card-row-1 p button{
-  width:8vh;
+  width:15%;
   height:4vh;
   font-size:1.8vh;
   display:grid;
